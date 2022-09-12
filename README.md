@@ -1,2 +1,2 @@
-# IntroToSwiftPlayground
- Assignment 1
+import UIKit
+var str = "Hello, Playground"

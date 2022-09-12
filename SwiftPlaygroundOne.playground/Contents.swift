@@ -26,3 +26,16 @@ var myThirdPhrase = "Name "
 // Combining the phrases into one string and printing it on a text
 var myFourthPhrase = myFirstPhrase + mySecondPhrase + myThirdPhrase
 print (myFourthPhrase)
+
+// Assignment #2 Introduction to True and False
+var appState = false
+
+print(appState)
+
+// Comparing variables using > ( greater than ) or < (less than)
+var numberOne = 5
+var numberTwo = 7
+
+// Create a variable that holds the comparision of the two variables we just created
+
+var compare = numberOne > numberTwo
